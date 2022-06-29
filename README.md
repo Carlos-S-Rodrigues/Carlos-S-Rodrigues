@@ -1,4 +1,4 @@
-# Hi👋! Sou o Carlos.
+# Olá👋! Sou o Carlos.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Carlos-S-Rodrigues&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" background-color="#343536" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-S-Rodrigues&layout=compact"/>
